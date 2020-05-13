@@ -1,0 +1,66 @@
+#nav-bar {
+
+    height: 90px;
+    background-color: white;
+    margin: 0 55px;
+}
+
+#nav-bar > .row {
+    margin: 0 -15px;
+    height: 100%;
+}
+
+#logo {
+    margin: auto 0;
+    text-align: center;
+}
+
+#logo h1 {
+    font-weight: 800;
+    font-size: 32px;
+}
+
+#nav-links {
+    margin: auto 0;
+}
+
+#nav-links ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+
+#nav-links li {
+    padding: 0 10px;
+    color: #777;
+    font-size: 14px;
+}
+
+#nav-links li:first-child {
+    color: #ed564b;
+}
+
+#slide-div {
+    background-color: black;
+    height: 530px;
+}
+
+#widget-bar {
+    height: 224px;
+    background-color: red;
+}
+
+#content {
+    height: 1121px;
+    background-color: white;
+}
+
+#bottom {
+    height: 286px;
+    background-color: black;
+}
+
+#footer {
+    height: 58px;
+    background-color: grey;
+}
